@@ -32,3 +32,7 @@ GitHub API licence field at inventory time: `NOASSERTION`. This is a metadata ob
 ## Evidence and limitations
 
 Evidence: authenticated GitHub API metadata captured by the FMI provenance audit. Contribution, prior art, ownership, contributors, document licensing, relationships, releases, and publication status require human verification.
+
+## Evidence-led lineage position
+
+The README describes a `SPECIFIED`, provisional-name research programme for independently locking human and language-model interpretations before deterministic comparison. Its narrow documented contribution is the proposed provenance-preserving, double-blind comparison/cartography arrangement. The README names Project Leviathan as related; that relationship is architectural context, not a claim that Mímir is a Leviathan implementation or that either project owns comparison, provenance, or double-blind methods generally.
